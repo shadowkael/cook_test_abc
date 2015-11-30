@@ -1,4 +1,6 @@
 Android Fundamentals
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Background services and alarms to schedule background tasks
+Efficient background data transfers with SyncAdapters
+Rich notifications to interact with users
