@@ -2,7 +2,7 @@
     "plugins": [
         "-addcssjs",
         "-anker-enable",
-        "betterchinese",
+        "-audio_image",
         "github"
     ],
     "pluginsConfig": {}
