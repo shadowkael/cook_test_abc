@@ -3,7 +3,8 @@
         "-addcssjs",
         "-anker-enable",
         "-audio_image",
-        "-github"
+        "-github",
+        "youtube"
     ],
     "pluginsConfig": {}
 }
