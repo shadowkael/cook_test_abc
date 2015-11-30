@@ -20,7 +20,7 @@ Rich notifications to interact with users
 http://player.youku.com/player.php/sid/XMTM5NzEyOTY3Mg==/v.swf
 
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XMTM5NzEyOTY3Mg==" frameborder=0 allowfullscreen></iframe>
+<iframe height=498 width=510 src="http://player.youku.com/player.php/sid/XMTM5NzEyOTY3Mg==/v.swf" frameborder=0 allowfullscreen></iframe>
 
 
 <video width="480" height="400" controls autoplay>
