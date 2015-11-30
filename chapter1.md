@@ -25,6 +25,6 @@ http://player.youku.com/player.php/sid/XMTM5NzEyOTY3Mg==/v.swf
 
 <video width="480" height="400" controls autoplay>
   <object data="movie.mp4" width="320" height="240">
-    <embed width="320" height="240" src="http://player.youku.com/player.php/sid/XMTM5NzEyOTY3Mg==/v.swf">
+    <embed width="320" height="240" src="https://youtu.be/pNHDbyqRxlo">
   </object>
 </video>
