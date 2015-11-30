@@ -1,8 +1,8 @@
 {
     "plugins": [
         "-addcssjs",
-        "-betterchinese",
-        "github"
+        "-anker-enable",
+        "betterchinese"
     ],
     "pluginsConfig": {}
 }
