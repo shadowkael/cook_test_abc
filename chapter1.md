@@ -11,3 +11,6 @@ Rich notifications to interact with users
 [video_link](http://player.youku.com/player.php/sid/XMTM5NzEyOTY3Mg==/v.swf)
 
 <script async class="speakerdeck-embed" data-id="c96ebfd513cf41ddba7d1f09a6029aca" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+http://player.youku.com/player.php/sid/XMTM5NzEyOTY3Mg==/v.swf
+
