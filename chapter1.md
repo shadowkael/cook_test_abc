@@ -21,5 +21,3 @@ http://player.youku.com/player.php/sid/XMTM5NzEyOTY3Mg==/v.swf
     <embed width="320" height="240" src="https://youtu.be/pNHDbyqRxlo">
   </object>
 </video>
-
-##视频a
