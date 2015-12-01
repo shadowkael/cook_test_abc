@@ -1,4 +1,4 @@
-# Lesson 1
+# Chapter 1
 
 Background services and alarms to schedule background tasks
 Efficient background data transfers with SyncAdapters
