@@ -10,3 +10,4 @@ Rich notifications to interact with users
 [Youku_video_link](http://player.youku.com/player.php/sid/XMTM5NzEyOTY3Mg==/v.swf)
 
 
+This android application have a simple login interface, using that user can login and checking server response, credential is right or wrong. This is a basic,importance part of an big application that is why I decide to demonstrate this.
