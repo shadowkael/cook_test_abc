@@ -4,10 +4,6 @@ Background services and alarms to schedule background tasks
 Efficient background data transfers with SyncAdapters
 Rich notifications to interact with users
 
-
-###video
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pNHDbyqRxlo" frameborder="0" allowfullscreen></iframe>
 
 
