@@ -1,4 +1,4 @@
-Android Fundamentals
+Android Fundamentals (demo)
 =======
 
 For intermediate programmers pursuing Android mastery, this program teaches the tools, principles, and patterns that underlie all Android development.
